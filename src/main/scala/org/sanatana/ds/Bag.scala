@@ -5,6 +5,7 @@ trait Bag[A] extends  Iterable[A] {
   def add(item:A):Unit
   def isEmpty:Boolean
   def size:Int
+  def getCapacity:Int
 }
 
 trait Removable[A] {
