@@ -1,0 +1,37 @@
+﻿Initial commit
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   .idea/libraries/SBT__org_scala_lang_modules_scala_parser_combinators_2_12_1_0_4_jar.xml
+#	new file:   .idea/libraries/SBT__org_scala_lang_modules_scala_xml_2_12_1_0_5_jar.xml
+#	new file:   .idea/libraries/SBT__org_scala_lang_scala_library_2_12_3_jar.xml
+#	new file:   .idea/libraries/SBT__org_scala_lang_scala_reflect_2_12_3_jar.xml
+#	new file:   .idea/libraries/SBT__org_scala_sbt_test_interface_1_0_jar.xml
+#	new file:   .idea/libraries/SBT__org_scalacheck_scalacheck_2_12_1_13_4_jar.xml
+#	new file:   .idea/modules/algos-build.iml
+#	new file:   .idea/scala_compiler.xml
+#	new file:   .idea/uiDesigner.xml
+#	new file:   build.sbt
+#	new file:   src/main/scala/org/sanatana/ds/Bag.scala
+#	new file:   src/main/scala/org/sanatana/ds/Client.scala
+#	new file:   src/main/scala/org/sanatana/ds/Iterable.scala
+#	new file:   src/main/scala/org/sanatana/ds/mutable/ArrayStack.scala
+#	new file:   src/test/scala/org/sanatana/ds/mutable/FixedArrayStackSpec.scala
+#
+# Untracked files:
+#	.idea/libraries/SBT__org_scalactic_scalactic_2_12_3_0_4_jar.xml
+#	.idea/libraries/SBT__org_scalatest_scalatest_2_12_3_0_4_jar.xml
+#	.idea/misc.xml
+#	.idea/modules.xml
+#	.idea/modules/algos.iml
+#	.idea/sbt.xml
+#	.idea/vcs.xml
+#	.idea/workspace.xml
+#	project/
+#	target/
+#
+

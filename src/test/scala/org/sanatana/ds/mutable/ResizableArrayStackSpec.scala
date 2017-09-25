@@ -71,7 +71,5 @@ class ResizableArrayStackSpec extends FlatSpec with Matchers {
     stack.getCapacity should be(4)
     stack.push(10)
     stack.getCapacity should be(8)
-
-
   }
 }
